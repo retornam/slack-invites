@@ -102,7 +102,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-color: #000;
+		background-color: #e8ecee;
 		padding: 6em 4em 4em 4em;
 	}
 
@@ -291,7 +291,8 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.75);
+		/*color: rgba(255, 255, 255, 0.75); */
+		color: #33393a;
 		font-family: "Roboto", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -369,7 +370,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #fff;
+		color: #33393a;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -470,7 +471,7 @@
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.5);
+		color: #33393a;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
